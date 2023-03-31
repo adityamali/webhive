@@ -58,7 +58,7 @@ body{
 }
 
 .hero{
-    background: url('resources/img/whale.jpeg');
+    background: url('/resources/img/whale.jpeg');
     background-position: center;
     background-size: cover;
     color: #c6c6c6;
